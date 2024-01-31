@@ -197,8 +197,8 @@ blockquote {
 }
 
 .post-description {
-  margin-bottom: 2rem;
-  font-size: 0.875rem;
+  margin-bottom: 2.5rem;
+  font-size: 1.125rem;
 
   a {
     color: inherit;
@@ -663,8 +663,9 @@ footer.sticky-bottom {
 
       .preview {
         width: 100%;
-        min-width: 80px;
-        max-width: 200px;
+        min-width: 240px;
+        max-width: 300px;
+        padding-right: 1rem;
       }
 
       .abbr {

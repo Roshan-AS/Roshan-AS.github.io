@@ -2,96 +2,108 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
+      value: Roshan Ayyalasomayajula
     - name: Date of Birth
-      value: 14th March 1879
+      value: 17th May, 1995
     - name: Languages
-      value: English, German
+      value: English, Telugu, Hindi
 
 - title: Education
   type: time_table
   contents:
     - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+      institution: University of California, San Diego
+      year: 2023
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+        - Worked under PI <a href="https://dineshb-ucsd.github.io/">Dinesh Bharadia</a>.
+        - Thesis on "ML-based Wireless-Sensing for Robotics and IoT Applications".
+        - Mentored the <a href="https://wcsng.ucsd.edu/wireless-sensing.html">Wireless-Sensing</a> team
+    - title: Master of Science
+      institution: University of California, San Diego
+      year: 2023
       description:
-        - Description 1.
-        - Description 2.
+        - PI <a href="https://dineshb-ucsd.github.io/">Dinesh Bharadia</a>.
+        - Project on "Low-Power Indoor Localization using BLE devices"
+    - title: Bachelor of Technolgy
+      institution: Indian Institute of Technology, Roorkee
+      year: 2016
+      description:
+        - PI <a href="http://ece.iitr.ac.in/vinod_pankajakshan">Vinod Pankajakshan</a>
+        - Thesis on "Countering Anti-JPEG Forensices for Images"
 
 - title: Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
-      description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
-      description:
-        - Description 1.
-        - Description 2.
+    - title: Assistant Professor
+      institution: Computer Science and Engineering Department, University at Buffalo
+      year: 2023 --
 
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
+    - title: Remote Research Intern
+      institution: Microsoft Research, Redmond, Washington
+      year: 2021
+      items:
+        - Worked under the guidance of Bodhi Priyantha
+        - Worked on Soil Moisture Sensing using WiFi RSSI based Tomography
 
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
-      description:
+    - title: Remote Research Intern
+      institution: Nokia Bell Labs, Sunnyvale, California
+      year: 2020
+      items:
+        - Worked under the guidance of Enriko (Henkka) Rantala
+        - Worked on WiFi based passive gesture recognition.
 
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
-
-- title: Open Source Projects
+- title: Professional Services
   type: time_table
   contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+    - title: Technical Program Committees (TPC)
+      year: 2022 --
+      items:
+        - Mobicom'23 Artefact Evaluation -- TPC
+        - Workshop on Millimeter-Wave and Terahertz Networks and Sensing Systems (mmNets) with Mobicom'23 -- Publicity co-chair and TPC
+        - International Conference on Algorithms and Architectures for Parallel Processing (ICA3PP 2023) -- TPC.
+        - ACM SenSys 2022 -- Shadow TPC.
+
+    - title: Presented and organized Kaggle compeition and WILD datasets.
+      year: 2022 July
+      items:
+        - 1st International workshop on Wireless AI perception, CVPR 2022
+
+    - title: Technical Reviews.
+      year: 2019 -- ongoing
+      items:
+        - 2023, IEEE Trans. on Antennas and Propogation
+        - 2020 -- ongoing, Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies
+        - 2023, ACM International Conference on Mobile Computing and Networking (Mobicom) artefact evaluation.
+        - 2021 -- 22, IEEE Trans. Mobile Computing (TMC)
+        - 2021 -- 22, IEEE/ACM Trans. on Networking
+        - 2021 -- 22, International Journal of Robotics Research
+        - 2021 -- 22, IEEE Robotics and Automation Letters
+        - 2020 -- 21, IEEE International Conference on Robotics and Automation (ICRA)
+        - 2020 -- 21, IEEE Transactions on Instrumentation and Measurement
+
+    
+
+- title: Open Source
+  type: time_table
+  contents:
+    - title: <a href="https://github.com/ucsdwcsng/WiROS">WiROS</a>
+      year: 2022-now
+      description: ROS Toolbox for ready integration of Wi-Fi as a snsor for Robotics and other data streaming
+    - title: <a href="https://wcsng.ucsd.edu/wild/">WILD</a>
+      year: 2020-now
+      description: The first of its kind WI-Fi CSI data for Indoor Localization and Navigation
+    - title: <a href="https://github.com/ucsdwcsng/DLoc_pt_code">DLoc</a>
+      year: 2020-now
+      description: ML based Wireless Navigation for Wi-Fi devices indoors
 
 - title: Honors and Awards
   type: time_table
   contents:
-    - year: 1921
+    - year: 2018
       items: 
-        - Nobel Prize in Physics 
-        - Matteucci Medal
-    - year: 2029
-      items: 
-        - Max Planck Medal
-
-- title: Academic Interests
-  type: nested_list
-  contents:
-    - title: Topic 1.
-      items: 
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
-      items:
-        - Description 1.
-        - Description 2.
+        - Received ECE UCSD fellwoship for the years 2017-18
 
 - title: Other Interests
   type: list
   contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - <u>Hobbies:</u> Coffee Brewing, Camping, etc.

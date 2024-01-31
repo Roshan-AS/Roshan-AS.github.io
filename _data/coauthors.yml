@@ -1,34 +1,39 @@
-"Adams":
-  - firstname: ["Edwin", "E.", "E. P.", "Edwin Plimpton"]
-    url: https://en.wikipedia.org/wiki/Edwin_Plimpton_Adams
+"Arun":
+  - firstname: ["Aditya", "A."]
+    url: https://wcsng.ucsd.edu/aarun
 
-"Podolsky":
-  - firstname: ["Boris", "B.", "B. Y.", "Boris Yakovlevich"]
-    url: https://en.wikipedia.org/wiki/Boris_Podolsky
+"Sun":
+  - firstname: ["Wei", "W."]
+    url: https://sunwit.github.io/
 
-"Rosen":
-  - firstname: ["Nathan", "N."]
-    url: https://en.wikipedia.org/wiki/Nathan_Rosen
+"Bharadia":
+  - firstname: ["Dinesh", "D."]
+    url: https://dineshb-ucsd.github.io/
 
-"Bach": 
-  - firstname: ["Johann Sebastian", "J. S."]
-    url: https://en.wikipedia.org/wiki/Johann_Sebastian_Bach
+"Jain": 
+  - firstname: ["Ish", "I.", "Ish Kumar", "I. K."]
+    url: https://ishjain.github.io/
 
-  - firstname: ["Carl Philipp Emanuel", "C. P. E."]
-    url: https://en.wikipedia.org/wiki/Carl_Philipp_Emanuel_Bach
+"Vasisht":
+  - firstname: ["Deepak", "D."]
+    url: https://deepakv.web.illinois.edu/
 
-"Przibram":
-  - firstname: ["Karl"]
-    url: https://link.springer.com/article/10.1007/s00016-019-00242-z
+"Zhang":
+  - firstname: ["Chi"]
+    url: http://dword1511.info/me/
 
-"Schrödinger":
-  - firstname: ["Erwin"]
-    url: https://en.wikipedia.org/wiki/Erwin_Schr%C3%B6dinger
+"Zhao":
+  - firstname: ["Minghui", "Scott", "M.", "S."]
+    url: https://scottz.net/
 
-"Lorentz":
-  - firstname: ["Hendrik Antoon"]
-    url: https://en.wikipedia.org/wiki/Hendrik_Lorentz
+"Wu":
+  - firstname: ["Chenfeng", "C."]
+    url: https://www.linkedin.com/in/chenfengw/
 
-"Planck":
-  - firstname: ["Max"]
-    url: https://en.wikipedia.org/wiki/Max_Planck
+"Hunter":
+  - firstname: ["William", "W."]
+    url: https://acsweb.ucsd.edu/~wshunter/
+
+"Chang":
+  - firstname: ["Tyler", "T."]
+    url: https://www.linkedin.com/in/tyler-chang-910808164/

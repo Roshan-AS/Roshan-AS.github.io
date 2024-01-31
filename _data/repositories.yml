@@ -1,12 +1,9 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - Roshan-AS
+  - ucsdwcsng
 
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - ucsdwcsng/WiROS
+  - ucsdwcsng/CSI_to_DLocFeatures
+  - ucsdwcsng/ULoc-public
+  - ucsdwcsng/DLoc_pt_code

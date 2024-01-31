@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2016-01-15 07:59:00-0400
+date: 2023-06-01
 inline: true
 related_posts: false
 ---
 
-A simple inline announcement with Markdown emoji! :sparkles: :smile:
+I will work as publicity co-chair alongside Ish Jain for the [mmNets](https://wcsng.ucsd.edu/mmNets2023/) workshop at [Mobicom'23](https://www.sigmobile.org/mobicom/2023/).
