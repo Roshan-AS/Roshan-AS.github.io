@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://buffalo.edu/~roshana/sitemap.xml
+Sitemap: https://Roshan-AS.github.io/sitemap.xml
