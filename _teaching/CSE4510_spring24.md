@@ -1,7 +1,7 @@
 ---
 layout: page
-title: CSE 4/510
-description: Signals and Systems for Wireless Signals (Spring 2024)
+title: CSE 4/510 -- AYY
+description: Algorithms for Mobile Computing and IoT (Spring 2024, Spring 2025)
 img: assets/img/cse4510.jpg
 importance: 1
 ---
@@ -16,8 +16,8 @@ Access Code: You should find it under the **Announcements** tab in UBLearns Brig
 ## Teaching Staff
 
 **Instructor:** Roshan Ayyalasomayajula, Assistant Professor\
-Office: 328 Davis Hall\
-Office Hours: MWF 2:00-3:00 PM\
+Office: 113I Davis Hall\
+Office Hours:TBD\
 Phone: 716-6451590\
 Email: roshana [at] buffalo.edu
 
@@ -29,17 +29,18 @@ Email: roshana [at] buffalo.edu
 ## Course Description
 
 
-The course introduces basic elements of wireless signals and wireless sensing. The focus is on Monostatic and Bi-static Wireless Sensing that has brought wide-applications ranging from localization, navigation, breathing, heart-rate estimation, autonomous driving perception and many more to come. To understand these wireless sensing systems, we will cover the basics of signals and systems, that focus on continuous and discrete time. Fourier series and transforms. Linear Time-Invariant Systems. Impulse response, frequency response, and transfer functions. Convolution. Sampling. Aliasing. We will then focus on Single carrier wireless transceiver design, Wireless Signal Modulations, Mono-Static Sensing, Bi-Static Sensing, and finally discuss the current ML-based Wireless sensor systems.
+The course introduces basic and advanced signal processing and Machine Learning algorithms that aid in mobile computing and IoT (Intenet-of-Things). We will do some quick and interactive exercises to brush the fundamentals of signals and systems that is critical to understand the rest of the material. We would then focus more on wireless signals (Radio Frequency) based mobile computing and IoT systems that can aid in a broad spectrum of applications ranging from localization, navigation, breathing, heart-rate estimation, autonomous driving perception and many more to come. We will also cover algorithms that can use Inertial-Measurement-Units (IMUs) for tracking that can be used in health, sports and other applications. We will wrap the class with some latest algorithms across the intersection of ML and IoT systems.
 
 The objective of the course is to enable students to:
   - Gain fundamental knowledge of signal and systems.
   - Gain fundamental knowledge of wireless signals.
   - Understand mono-static and bi-static wireless sensor systems.
   - Learn basic signal processing algorithms
+  - Introduction to Machine Learning based algorithms for IoT and Mobile computing.
   - Prepare for studying advanced Wireless topics, and a career in the field of Wireless Sensors.
 At the end of this course, each student should be able to:
   - Have a good overall picture of signals and systems in general and wireless signals in particular.
-  - Have a rough idea of how various wireless signals behave and where they are used for sensing.
+  - ave a rough idea of how various signals behave and where they are used for sensing: IMUs, Acoustic Sensors, and Wireless (RF) Sensors.
   - Know how to do signal processing in MATLAB and/or Python.
   - Know how to do basic signal analysis of popular wireless protocols (WiFi, BLE, UBW, cellular).
   - Know how to use popular signal processing tools ranging from FFT, MUSIC, CFAR, and more
@@ -49,7 +50,10 @@ At the end of this course, each student should be able to:
 ------------------
  
 ## Pre-requisites
-Students need to have some basic knowledge of calculus and probability theory, data structures, and algorithms. In addition, **they must be proficient in Python or MATLAB programming.**
+**For undergraduate students**: CSE 250 and (EAS 305 or MTH 411 or STA 301)
+**For graduate students**: There are no formal perquisites, but it is expected that graduate students have a familiarity with systems programming, signal processing, and some optimization algorithms.
+Students need to have some basic knowledge of calculus and probability theory, data structures, and algorithms. In addition, <span style="color:red">they must be proficient in either Python or MATLAB programming</span>.
+
  
 ---------------
 
@@ -83,12 +87,11 @@ Each student must correctly answer all the questions in the AI Quiz within a mon
 Assuming that the student answers all the questions in the AI Quiz correctly, then the overall score will be calculated based on the scores from the Homework, Exam and Programming Assignments as follows:
 
  - Final Exam: 20%
- - 4 Homework: 20% (5% for each homework)
- - 2 Programming Assignments: 35% (PA1: 15%, and PA2: 20%)
- - 1 Final Project: 20% (Final Presentation:10%, Report :20%)
- - In-class particiation: 5%
+ - 4 Homework: 30% 
+ - 4 In-class labs: 20%
+ - 1 Final Project: 30% (Project Idea: 4%, MidTerm Progress Report: 8%, Final Presentation:8% , Final Report :10%)
 Homework should be done individually. 
-The Programming Assignments and the Final Projectneed to be done in a group of 1-2 students for Graduates and 3-4 students for the undergraduate students.
+The Programming Assignments and the Final Projectneed to be done in a group of 1-2 students.
   
 -------------
 
