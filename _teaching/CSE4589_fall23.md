@@ -3,7 +3,7 @@ layout: page
 title: CSE 4/589
 description: Modern Networking Concepts (Fall 2023)
 img: assets/img/cover_7th.jpg
-importance: 2
+importance: 3
 ---
 
 | [Course Policies](#course-policies) | [Academic Integrity](#academic-integrity) | [AI Tools](#ai-tools) | [Piazza](https://piazza.com/buffalo/fall2023/cse489589) | [Grading Policies](#grading-policies) | [Medical Emergencies](#medical-emergencies) | [Accessibility Resources](#accessibility-resources) |

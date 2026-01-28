@@ -3,7 +3,7 @@ layout: page
 title: CSE 4/510 -- AYY
 description: Algorithms for Mobile Computing and IoT (Spring 2024, Spring 2025)
 img: assets/img/cse4510.jpg
-importance: 1
+importance: 2
 ---
 
 | [Course Policies](#course-policies) | [Academic Integrity](#academic-integrity) | [AI Tools](#ai-tools) | [Piazza](https://piazza.com/buffalo/spring2024/cse4510) | [Grading Policies](#grading-policies) | [Medical Emergencies](#medical-emergencies) | [Accessibility Resources](#accessibility-resources) |

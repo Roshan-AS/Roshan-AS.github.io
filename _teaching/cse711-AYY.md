@@ -9,8 +9,10 @@ importance: 1
 | [Course Policies](#course-policies) | [Academic Integrity](#academic-integrity) | [AI Tools](#ai-tools) | [Piazza](https://piazza.com/buffalo/spring2026/cse711ayy) | [Grading Policies](#grading-policies) | [Medical Emergencies](#medical-emergencies) | [Accessibility Resources](#accessibility-resources) |
 
 ## Class Updates
-All updates, Q&A, class schedule, paper Reading Assignments, In-Class Participation, and Final Project are updated on <a href="https://piazza.com/buffalo/spring2026/cse711ayy">Piazza</a>. Please join at the following link: 
-https://piazza.com/buffalo/spring2026/cse711ayy
+All updates, Q&A, class schedule, paper Reading Assignments, In-Class Participation, and Final Project are updated on <a href="https://piazza.com/buffalo/spring2026/cse711ayy">Piazza</a>. 
+
+Please join at the following link: [https://piazza.com/buffalo/spring2026/cse711ayy](https://piazza.com/buffalo/spring2026/cse711ayy)
+
 Access Code: You should find it under the **Announcements** tab in UBLearns Brightspace.
 
 ## Teaching Staff
@@ -115,8 +117,12 @@ As we have discussed in the last class here is a sign-up sheet for presenting a 
 *Note*: Please do not overwrite any of your classmates request, instead put your name in a column next to it. (It will mostly be on first-come first-serve basis)
 
 ### Project
- - In-Class Presentations: Project Pitch (March 4th), Mid-term Review (April 1st), Final Presentatation + Demo (April 29th)
- - project Reports: Templates availabe on Piazza. Deadlines: same as above.
+ - In-Class Presentations: 
+    - Project Pitch (March 4th)
+    - Mid-term Review (April 1st)
+    - Final Presentatation + Demo (April 29th)
+ - Project Reports: Templates availabe on Piazza. 
+    - Deadlines: same as above.
 
 -------------
 ## Academic Integrity
