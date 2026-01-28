@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Research
-permalink: /research/
+title: Research lab
+permalink: https://wires-ub.github.io
 nav: true
 nav_order: 1
 dropwdown: false
